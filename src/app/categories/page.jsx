@@ -1,5 +1,6 @@
 
 const CategoriesPage = () => {
+
     return (
         <div>
             Categories Page

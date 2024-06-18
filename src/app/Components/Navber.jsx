@@ -28,6 +28,10 @@ const Navber = () => {
             title: 'Categories',
             path: '/categories'
         },
+        {
+            title: 'Dashboard',
+            path: '/dashboard'
+        },
     ]
 
     const handlerLogin = () => {
