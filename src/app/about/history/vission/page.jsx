@@ -1,5 +1,5 @@
 
-const MissionPage = () => {
+const VissionPage = () => {
     return (
         <div>
             Vission
@@ -7,4 +7,4 @@ const MissionPage = () => {
     );
 };
 
-export default MissionPage;
+export default VissionPage;

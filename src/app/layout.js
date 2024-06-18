@@ -16,12 +16,12 @@ export default function RootLayout({ children }) {
 
         <Navber></Navber>
 
-        <div className="h-screen">
+        <div className="">
           {children}
 
         </div>
 
-        <footer>
+        <footer className="bg-red-400">
           This is my footer
         </footer>
       </body>

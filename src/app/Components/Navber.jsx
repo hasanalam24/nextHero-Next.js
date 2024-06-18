@@ -20,6 +20,10 @@ const Navber = () => {
             title: 'Contact',
             path: '/contact'
         },
+        {
+            title: 'Blogs',
+            path: '/blogs'
+        },
     ]
 
     const handlerLogin = () => {
