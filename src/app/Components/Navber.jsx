@@ -24,6 +24,10 @@ const Navber = () => {
             title: 'Blogs',
             path: '/blogs'
         },
+        {
+            title: 'Categories',
+            path: '/categories'
+        },
     ]
 
     const handlerLogin = () => {
