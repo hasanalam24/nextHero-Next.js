@@ -31,6 +31,12 @@ const Navber = () => {
     }
 
 
+    if (pathName.includes('dashboard')) {
+        return <div className="bg-greeen-400">
+            dashboard layout
+        </div>
+    }
+
     return (
         <nav className="bg-red-500 p-6 text-white flex items-center justify-between">
             <h5 className="font-bold">Next<span className="text-blue-800">Hero</span></h5>
